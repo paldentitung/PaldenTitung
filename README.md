@@ -4,7 +4,7 @@
 - 🎯 **Goals**: Build real-world projects, learn **React** & **Node.js**
 - 🧰 **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind CSS
 - 💬 Ask me about **web development** and **self-learning**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/paldendorje-titung-81736b323/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/palden-dorje-titung-81736b323/)
 
 ---
 ## 📊 GitHub Stats
