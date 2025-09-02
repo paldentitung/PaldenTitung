@@ -13,17 +13,15 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-Here are some of my recent projects:
+Here are some of my recent projects built with HTML, CSS, and JavaScript:
 
-- [Simple Single Page Website](https://github.com/paldentitung/simple-single-page-website)  
-  A clean, responsive website built with **HTML**, **CSS**, and a bit of **JavaScript**.
+### [Karimart](https://karimart.netlify.app/)
+A simple e-commerce website with product listings and a fully functional checkout system.
 
-- [Travel Website](https://github.com/paldentitung/travel-website)  
-  A beautiful travel landing page using **HTML**, **CSS**, and minimal **JavaScript** for interactivity.
+### [JobTrack](https://job-trackr-sigma.vercel.app/)
+A job management app where users can add, modify, and remove jobs, keeping track of their applications efficiently.
 
-- [Simple Real Estate](https://github.com/paldentitung/Simple-Real-Estate)  
-  A modern real estate app built with **React**, **Vite**, and styled entirely with **Tailwind CSS**.
-
+### [To-Do List Dashboard](https://taskmanagerwebappcollegeproject.netlify.app/)
+A task management app that allows adding, removing, and editing tasks, with time tracking and local storage for saving tasks.
