@@ -65,7 +65,7 @@ A task management app with time tracking and persistent storage for efficient ta
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical" 
     alt="Top Languages"
-    height="170"
+    height="172"
   >
 </div>
 
