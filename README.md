@@ -55,24 +55,29 @@ A task management app with time tracking and persistent storage for efficient ta
 
 ---
 
-### 📊 GitHub Stats
-<div>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical" 
-    alt="Palden's GitHub Stats" 
-    height="170"
-  >
+### 📊 My GitHub Overview
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: flex-start;">
+
+  <div>
+    <h4>📈 Stats</h4>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical" 
+      alt="GitHub Stats" 
+      height="170"
+    >
+  </div>
+
+  <div>
+    <h4>💻 Languages</h4>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical" 
+      alt="Top Languages"
+      height="170"
+    >
+  </div>
 
 </div>
----
-### language I used
-<div>
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical" 
-    alt="Top Languages"
-    height="170"
-  >
-</div>
+
 
 
 ---
