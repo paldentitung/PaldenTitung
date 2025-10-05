@@ -35,21 +35,18 @@ An e-commerce website with dynamic product listings and a seamless checkout syst
 - **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
 - **Features**: Responsive design, product filtering, local storage for cart persistence
 - **Learned**: Mastered Tailwind CSS for rapid UI development and implemented local storage for a persistent cart.
-![Karimart Screenshot](https://via.placeholder.com/600x300.png?text=Karimart+Screenshot "Screenshot of Karimart e-commerce website")
 
 #### [JobTrack](https://job-trackr-sigma.vercel.app/) | [GitHub Repo](https://github.com/paldentitung/jobtrack)
 A job management app to streamline job applications with add, edit, and delete functionality.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Responsive UI, job status tracking, local storage integration
 - **Learned**: Enhanced DOM manipulation and state management skills.
-![JobTrack Screenshot](https://via.placeholder.com/600x300.png?text=JobTrack+Screenshot "Screenshot of JobTrack job management app")
 
 #### [To-Do List Dashboard](https://taskmanagerwebappcollegeproject.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/taskmanager)
 A task management app with time tracking and persistent storage for efficient task handling.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Add, edit, and delete tasks, time tracking, local storage
 - **Learned**: Deepened understanding of local storage and event-driven programming.
-![To-Do List Screenshot](https://via.placeholder.com/600x300.png?text=To-Do+List+Screenshot "Screenshot of To-Do List Dashboard")
 
 ---
 
