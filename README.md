@@ -83,9 +83,11 @@ A task management app with time tracking and persistent storage for efficient ta
 ---
 
 ### 🌍 Community & Contributions
-- Actively learning through [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com/).
-- Planning to contribute to open-source projects in 2026.
-- Sharing my coding journey on [Dev.to](https://dev.to/yourusername) (coming soon!).
+- Actively learning and building projects to improve my **Full Stack Development skills**.  
+- Exploring **React**, **Node.js**, and **Tailwind CSS** through hands-on projects.  
+- Planning to contribute to **open-source projects** in the future.  
+- Sharing knowledge and coding journey with peers and friends via **collaboration projects**.
+
 
 ---
 
