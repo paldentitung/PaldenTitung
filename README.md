@@ -56,13 +56,18 @@ A task management app with time tracking and persistent storage for efficient ta
 ---
 
 ### 📊 GitHub Stats
-<div style="display: flex; gap: 50px; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical" 
     alt="Palden's GitHub Stats" 
     height="170"
   >
-  <img 
+
+</div>
+---
+### language I used
+<div>
+    <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical" 
     alt="Top Languages"
     height="170"
