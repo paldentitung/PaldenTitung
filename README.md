@@ -56,7 +56,7 @@ A task management app with time tracking and persistent storage for efficient ta
 ---
 
 ### 📊 GitHub Stats
-<div  style="display: flex;  gap: 50px; flex-wrap: wrap;">
+<div  style="display: flex;  gap: 50px; flex-direction:cloumn; ">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical" 
     alt="Palden's GitHub Stats" 
