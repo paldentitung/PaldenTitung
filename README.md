@@ -92,7 +92,7 @@ A task management app with time tracking and persistent storage for efficient ta
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Palden D. Titung](https://www.linkedin.com/in/palden-dorje-titung-81736b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Palden Dorje Titung](https://www.linkedin.com/in/palden-dorje-titung-81736b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [paldendorjetitung@gmail.com](mailto:paldendorjetitung@gmail.com)
 - Instagram: [@paldendorjetitung](https://www.instagram.com/paldendorjetitung?igsh=MTltN2U5dHdtOG43eQ==)
 - Facebook: [Palden Dorje Titung](https://www.facebook.com/palden.dorje.titung.)
