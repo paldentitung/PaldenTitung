@@ -97,7 +97,7 @@ A task management app with time tracking and persistent storage for efficient ta
 - Instagram: [@paldendorjetitung](https://www.instagram.com/paldendorjetitung?igsh=MTltN2U5dHdtOG43eQ==)
 - Facebook: [Palden Dorje Titung](https://www.facebook.com/palden.dorje.titung.)
 - GitHub: [paldentitung](https://github.com/paldentitung)
-- Portfolio: [Coming Soon](#)
+- Portfolio: [Coming Soon](https://paldendorjetitung.netlify.app/#)
 
 ---
 
