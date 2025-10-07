@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Palden+D.+Titung+-+Full+Stack+Developer" alt="Banner with text: Palden D. Titung - Full Stack Developer">
-  <h1>👋 Hi, I'm Palden D. Titung</h1>
-  <p>A passionate self-taught developer crafting user-friendly web applications with a focus on <strong>Full Stack Development</strong>.</p>
-</div>
 
----
 
 ### 🌱 About Me
 I'm a self-taught developer on a mission to build impactful web applications. My coding journey began with a curiosity for creating solutions, and now I'm diving deep into **React** and **Node.js** to develop scalable, real-world projects. I thrive on solving problems and learning new technologies!
