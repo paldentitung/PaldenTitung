@@ -28,25 +28,28 @@ I'm a self-taught developer on a mission to build impactful web applications. My
 
 ---
 
+---
+
 ### 🚀 Featured Projects
 
-#### [Karimart](https://karimart.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/karimart)
-An e-commerce website with dynamic product listings and a seamless checkout system.
-- **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
-- **Features**: Responsive design, product filtering, local storage for cart persistence
-- **Learned**: Mastered Tailwind CSS for rapid UI development and implemented local storage for a persistent cart.
+#### [GoBeyond – Travel Website](https://gobeyond-website.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/GoBeyond-website)
+GoBeyond is a modern, responsive travel website built with React.js and Tailwind CSS. It empowers users to explore captivating destinations, access in-depth details, and plan unforgettable trips with ease. Designed for an immersive and intuitive experience, GoBeyond inspires adventurers to discover their next great escape.
+- **Tech Stack**: React, Tailwind CSS
+- **Features**: Destination catalog, detailed trip pages, responsive design
+- **Live Demo**: [GoBeyond Live](https://gobeyond-website.netlify.app/)
 
-#### [JobTrack](https://job-trackr-sigma.vercel.app/) | [GitHub Repo](https://github.com/paldentitung/jobtrack)
-A job management app to streamline job applications with add, edit, and delete functionality.
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Features**: Responsive UI, job status tracking, local storage integration
-- **Learned**: Enhanced DOM manipulation and state management skills.
+#### [Inkspire – Personal Blog Platform](https://inkspire-blogsite.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/Inkspire)
+Inkspire is a modern, responsive personal blog platform built with React.js. It allows users to browse blog posts, read full articles on dedicated pages, and filter posts by category or tags. The platform is designed for seamless navigation, scalability, and a polished user experience, with additional placeholder pages like About and Contact.
+- **Tech Stack**: React, Tailwind CSS
+- **Features**: Blog catalog, post details, search, category filtering, responsive design
+- **Live Demo**: [Inkspire Live](https://inkspire-blogsite.netlify.app/)
 
-#### [To-Do List Dashboard](https://taskmanagerwebappcollegeproject.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/taskmanager)
-A task management app with time tracking and persistent storage for efficient task handling.
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Features**: Add, edit, and delete tasks, time tracking, local storage
-- **Learned**: Deepened understanding of local storage and event-driven programming.
+#### [BuyNext – E-Commerce Website](https://buynext-website.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/BuyNext-website)
+BuyNext is a modern, responsive e-commerce website built with React.js, designed to showcase and sell a variety of products across categories like Clothing, Kitchen, Home, and Footwear. It features dynamic product listings, variation support (colors, sizes), ratings, and detailed product descriptions.
+- **Tech Stack**: React, Tailwind CSS
+- **Features**: Product catalog, dynamic listings, responsive design, product variations
+- **Live Demo**: [BuyNext Live](https://buynext-website.netlify.app/)
+
 
 ---
 
