@@ -28,24 +28,22 @@ I'm a self-taught developer on a mission to build impactful web applications. My
 
 ---
 
-
-
 ### 🚀 Featured Projects
 
-#### [GoBeyond – Travel Website](https://gobeyond-website.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/GoBeyond-website)
+#### [GoBeyond – Travel Website](https://gobeyond-website.netlify.app/){:target="_blank" rel="noopener noreferrer"} | [GitHub Repo](https://github.com/paldentitung/GoBeyond-website){:target="_blank" rel="noopener noreferrer"}
 A responsive travel website built with React.js and Tailwind CSS, letting users explore destinations and view detailed trip information.
 - **Tech Stack**: React, Tailwind CSS
-- **Live Demo**: [GoBeyond Live](https://gobeyond-website.netlify.app/)
+- **Live Demo**: [GoBeyond Live](https://gobeyond-website.netlify.app/){:target="_blank" rel="noopener noreferrer"}
 
-#### [Inkspire – Personal Blog Platform](https://inkspire-blogsite.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/Inkspire)
+#### [Inkspire – Personal Blog Platform](https://inkspire-blogsite.netlify.app/){:target="_blank" rel="noopener noreferrer"} | [GitHub Repo](https://github.com/paldentitung/Inkspire){:target="_blank" rel="noopener noreferrer"}
 A modern blog platform built with React.js, featuring post browsing, category filtering, and full article views.
 - **Tech Stack**: React, Tailwind CSS
-- **Live Demo**: [Inkspire Live](https://inkspire-blogsite.netlify.app/)
+- **Live Demo**: [Inkspire Live](https://inkspire-blogsite.netlify.app/){:target="_blank" rel="noopener noreferrer"}
 
-#### [BuyNext – E-Commerce Website](https://buynext-website.netlify.app/) | [GitHub Repo](https://github.com/paldentitung/BuyNext-website)
+#### [BuyNext – E-Commerce Website](https://buynext-website.netlify.app/){:target="_blank" rel="noopener noreferrer"} | [GitHub Repo](https://github.com/paldentitung/BuyNext-website){:target="_blank" rel="noopener noreferrer"}
 A responsive e-commerce site built with React.js, showcasing products with variations, ratings, and detailed descriptions.
 - **Tech Stack**: React, Tailwind CSS
-- **Live Demo**: [BuyNext Live](https://buynext-website.netlify.app/)
+- **Live Demo**: [BuyNext Live](https://buynext-website.netlify.app/){:target="_blank" rel="noopener noreferrer"}
 
 
 ---
