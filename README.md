@@ -1,7 +1,7 @@
 # Palden Dorje Titung
 
 ### 🌱 About Me
-I'm a passionate self-taught developer transforming curiosity into code that solves real-world problems. With a foundation in frontend technologies, I'm now expanding into full-stack development, mastering **React** for dynamic UIs and **Node.js** for robust backends. I love turning ideas into scalable web apps that make an impact—whether it's a seamless travel planner or an engaging blog platform. My drive? Continuous learning and building projects that push my limits!
+I’m a passionate developer who turns curiosity into code that solves real-world problems. With a strong foundation in frontend technologies, I’m expanding into full-stack development, focusing on React for dynamic user interfaces and Node.js for scalable backends. I enjoy building practical, production-ready web applications—from travel platforms to content-driven blogs—while continuously improving my skills through hands-on projects and self-driven learning.
 
 🎯 **Goals**: Launch production-grade full-stack apps, dive into open-source contributions, and achieve expertise in **React**, **Node.js**, and modern web tools by 2026.
 
@@ -11,8 +11,8 @@ I'm a passionate self-taught developer transforming curiosity into code that sol
 
 ### 🧰 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, MySQL,PHP
-- **Tools**: Git, VS Code, Netlify, Vercel, Postman,Linux
+- **Backend**: Node.js, Express, MongoDB, MySQL, PHP
+- **Tools**: Git, VS Code, Netlify, Vercel, Postman, Linux
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,9 +20,12 @@ I'm a passionate self-taught developer transforming curiosity into code that sol
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
