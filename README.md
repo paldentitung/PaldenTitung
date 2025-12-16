@@ -10,7 +10,7 @@ I'm a passionate self-taught developer transforming curiosity into code that sol
 ---
 
 ### 🧰 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, React Router
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB, MySQL
 - **Tools**: Git, VS Code, Netlify, Vercel, Postman
 
@@ -34,4 +34,4 @@ I'm a passionate self-taught developer transforming curiosity into code that sol
 ### 📫 Let's Connect
 I'm always up for chatting about web dev, collaborating on projects, or sharing tips on React/Node.js. Reach out—let's build something awesome together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palden-dorje-titung-81736b323) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paldendorjetitung@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/paldendorjetitung) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/palden.dorje.titung) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paldentitung) [![Netlify](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://paldendorjetitung.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palden-dorje-titung-81736b323) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paldendorjetitung@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/paldendorjetitung) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/palden.dorje.titung) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paldentitung) [![Netlify](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://paldendorjetitung.com.np/)
