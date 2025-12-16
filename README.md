@@ -11,7 +11,7 @@ I'm a passionate self-taught developer transforming curiosity into code that sol
 
 ### 🧰 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, MySQL
+- **Backend**: Node.js, Express, MongoDB, MySQL,PHP
 - **Tools**: Git, VS Code, Netlify, Vercel, Postman,Linux
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
