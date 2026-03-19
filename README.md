@@ -18,6 +18,17 @@ When I'm not coding, you'll probably find me **exploring mountain trails, hiking
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=paldentitung&theme=radical&background=0D1117&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### Frontend
@@ -43,8 +54,6 @@ When I'm not coding, you'll probably find me **exploring mountain trails, hiking
 - Linux  
 
 ---
-
-
 
 ## 📫 Connect With Me
 
