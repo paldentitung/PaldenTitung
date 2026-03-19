@@ -28,30 +28,19 @@ When I'm not coding, you'll probably find me **exploring mountain trails, hiking
 </p>
 
 ---
-
 ## 🧰 Tech Stack
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-- Tailwind CSS  
+### 💻 Frontend
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- MySQL  
-- PHP  
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
 
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Netlify  
-- Vercel  
-- Linux  
+### ⚙️ Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php)
+
+### 🛠 Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,linux)
 
 ---
 
