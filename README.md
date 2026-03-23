@@ -1,20 +1,22 @@
 # Palden Dorje Titung
 
 ## 👨‍💻 About Me
-I’m a passionate developer and **BCSIT student** who enjoys turning curiosity into real-world applications. I started my journey with frontend development and gradually expanded into full-stack development, focusing on building modern and scalable web applications.
+I’m a passionate developer and **BCSIT student** who enjoys transforming curiosity into real-world applications. My journey began with frontend development, and over time, I’ve expanded into full-stack development with a focus on building modern, scalable web applications.
 
-Currently, I’m learning the **MERN stack (MongoDB, Express, React, Node.js)** while also strengthening my understanding of **Data Structures, SQL, and backend architecture**. I enjoy building practical projects that solve real problems and help me grow as a developer.
+Currently, I’m diving deep into the **MERN stack (MongoDB, Express, React, Node.js)** while strengthening my foundation in **Data Structures, SQL, and backend architecture**. I believe in learning by building — most of my growth comes from hands-on experimentation and creating real-world projects rather than relying solely on tutorials.
 
-Most of my learning comes from **hands-on experimentation and self-learning**, where I challenge myself to build real applications rather than just watching tutorials.
+---
 
-### 🎯 Goals
+## 🎯 Goals
 - Build **production-ready full stack applications**
-- Contribute to **open source projects**
+- Contribute to **open-source projects**
 - Master **React, Node.js, and modern backend systems**
 - Become a **highly skilled full stack developer by 2026**
 
-### ⚡ Fun Fact
-When I'm not coding, you'll probably find me **exploring mountain trails, hiking, or attacking bases in Clash of Clans** ⚔️
+---
+
+## ⚡ Fun Fact
+When I’m not coding, you’ll find me **exploring mountain trails, hiking, or dominating bases in Clash of Clans** ⚔️
 
 ---
 
