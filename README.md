@@ -58,3 +58,6 @@ I'm always open to:
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/palden.dorje.titung) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paldentitung) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://paldendorjetitung.com.np/)
+
+---
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=paldentitung.paldentitung)
