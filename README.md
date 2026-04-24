@@ -19,33 +19,6 @@ Currently, I’m diving deep into the **MERN stack (MongoDB, Express, React, Nod
 When I’m not coding, you’ll find me **exploring mountain trails, hiking, or dominating bases in Clash of Clans** ⚔️
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=paldentitung&theme=radical&background=0D1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" />
-</p>
-
----
-## 🧰 Tech Stack
-
-### 💻 Frontend
-
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
-
-### ⚙️ Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php)
-
-### 🛠 Tools & Platforms
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,linux)
-
----
-
 ## 📫 Connect With Me
 
 I'm always open to:
