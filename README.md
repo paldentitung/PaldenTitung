@@ -25,14 +25,6 @@ I prefer **learning by building** — turning ideas into working systems rather 
 * Land a **full-stack developer internship**
 * Become confident in designing **scalable backend systems**
 
----
-
-## ⚒️ Tech Stack
-
-**Frontend:** React, Tailwind CSS, Context API
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, SQL
-**Tools:** Git, Postman, Cloudinary, Nodemailer
 
 ---
 
