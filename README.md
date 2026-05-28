@@ -76,14 +76,6 @@ I learn by building — turning ideas into working systems rather than following
 
 ---
 
-## 2026 Goals
-
-- Ship **2–3 production-level MERN / Next.js applications**
-- Land a **full-stack developer role or internship**
-- Become confident designing **scalable backend systems**
-
----
-
 ## Beyond the Code
 
 When I'm not building, you'll find me on mountain trails ⛰️ or competing in **Clash of Clans** ⚔️
