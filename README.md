@@ -53,19 +53,6 @@ I learn by building — turning ideas into working systems rather than following
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Palden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paldentitung&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paldentitung&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paldentitung&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 ## What I'm Currently Working On
 
